@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="autolink_val">Plese Click Here : http://www.google.com</string>
+</resources>
